@@ -39,7 +39,7 @@ class Game():
         door_rect = door_surf.get_rect(center = (400,200))
 
         # background surfaces & vars
-        bgm = pygame.mixer.Sound('audio/retroGame.wav')
+        bgm = pygame.mixer.Sound('audio/retroGame.ogg')
         bgm.play(loops = -1)
         bgm.set_volume(0.75)
         carpet_surf = pygame.image.load('graphics/carpet2.png').convert()
