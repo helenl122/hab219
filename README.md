@@ -3,9 +3,9 @@ This is a simple game I created using Pygame for my Spanish class's creative fin
 READ IT HERE: https://www.cervantesvirtual.com/obra-visor/antologia-poetica--54/html/00b29e0c-82b2-11df-acc7-002185ce6064_3.html
 
 Helpful resources:
-- Pygame basis tutorial: https://www.youtube.com/watch?v=AY9MnQ4x3zk
+- Pygame basics tutorial: https://www.youtube.com/watch?v=AY9MnQ4x3zk
 - Scrolling background tutorial: https://www.youtube.com/watch?v=ARt6DLP38-Y&t=635s
-- Exporting game to itch.io: https://www.youtube.com/watch?v=LB7dAlIDnDw&t=369s
+- Exporting game to itch.io tutorial: https://www.youtube.com/watch?v=LB7dAlIDnDw&t=369s
 
 Media resources/credits:
 - Door: http://sergiumatei.artstation.com/projects/LWYvk
