@@ -5,7 +5,8 @@ READ IT HERE: https://www.cervantesvirtual.com/obra-visor/antologia-poetica--54/
 Helpful resources:
 - Pygame basics tutorial: https://www.youtube.com/watch?v=AY9MnQ4x3zk
 - Scrolling background tutorial: https://www.youtube.com/watch?v=ARt6DLP38-Y&t=635s
-- Exporting game to itch.io tutorial: https://www.youtube.com/watch?v=LB7dAlIDnDw&t=369s
+- Exporting game to itch.io tutorial (pygbag): https://www.youtube.com/watch?v=LB7dAlIDnDw&t=369s
+-- https://youtu.be/7-cpaJyS-PM?si=n_g8DwudV2JRMRbA
 
 Media resources/credits:
 - Door: http://sergiumatei.artstation.com/projects/LWYvk
