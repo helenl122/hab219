@@ -1,8 +1,7 @@
 This is a simple game I created using Pygame for my Spanish class's creative final project based on the poem "Habitación 219" by Luis García Montero.
 
-![Screenshot 2024-07-07 205105](https://github.com/helenl122/hab219/assets/113318772/28c89704-0ad0-4020-865a-5a001c620248)
-
 READ IT HERE: https://www.cervantesvirtual.com/obra-visor/antologia-poetica--54/html/00b29e0c-82b2-11df-acc7-002185ce6064_3.html
+![Screenshot 2024-07-07 205105](https://github.com/helenl122/hab219/assets/113318772/28c89704-0ad0-4020-865a-5a001c620248)
 
 Helpful resources:
 - Pygame basics tutorial: https://www.youtube.com/watch?v=AY9MnQ4x3zk
