@@ -4,6 +4,8 @@ READ IT HERE: https://www.cervantesvirtual.com/obra-visor/antologia-poetica--54/
 
 ![Screenshot 2024-07-07 205105](https://github.com/helenl122/hab219/assets/113318772/28c89704-0ad0-4020-865a-5a001c620248)
 
+Inspired by the poem's analogy of a hotel hallway to the journey of life, I wanted to explore & represent its themes through a virtual format, to reflect on the impermanence of life despite how continually endless it may feel.
+
 Helpful resources:
 - Pygame basics tutorial: https://www.youtube.com/watch?v=AY9MnQ4x3zk
 - Scrolling background tutorial: https://www.youtube.com/watch?v=ARt6DLP38-Y&t=635s
