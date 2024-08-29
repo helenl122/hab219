@@ -1,4 +1,4 @@
-This is a simple game I created using Pygame for my Spanish class's creative final project based on the poem "Habitación 219" by Luis García Montero. Inspired by the poem's analogy of a hotel hallway to the journey of life, I wanted to explore & represent its themes through a virtual format, to reflect on the impermanence of life despite how continually endless it may feel.
+This is a simple game I created using **Pygame** for my Spanish class's creative final project based on the poem "Habitación 219" by Luis García Montero. Inspired by the poem's analogy of a hotel hallway to the journey of life, I wanted to explore & represent its themes through a virtual format, to reflect on the impermanence of life despite how continually endless it may feel.
 
 PLAY HERE: [helenl12.itch.io/habitacion-219](https://helenl12.itch.io/habitacion-219)
 
